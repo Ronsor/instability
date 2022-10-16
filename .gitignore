@@ -1,0 +1,4 @@
+__pycache__
+# block these until I can vendor them properly
+external/stable-diffusion
+external/taming-transformers
